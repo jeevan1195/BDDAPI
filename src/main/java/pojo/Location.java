@@ -3,6 +3,7 @@ package pojo;
 public class Location {
 
     private String  gitCheck = "just added this line to check git";
+    private String gitBranchCheck = "added new branch";
     private double lat;
     private double lng;
 
